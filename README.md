@@ -6,6 +6,12 @@ The objective is clear: to seamlessly integrate advanced software solutions into
 
 **IMPORTANT NOTE**:
 The PDF of the report has been attached, end of which there is a **QR code which has all the necessary files** and has a detailed explaination of **Physical design using OpenLane**
+OPEN-SOURCE LINKS:
+Simulation (using Iverilog) & Synthesis(using Yosys) :
+https://github.com/NishitaNJ/pes_asic_class.git
+
+Physical Design (using OpenLane):
+https://github.com/NishitaNJ/pes_pd.git
 
 
 
