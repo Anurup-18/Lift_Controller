@@ -3,9 +3,12 @@ Elevators, integral to modern urban life, have evolved from simple mechanical sy
 
 The objective is clear: to seamlessly integrate advanced software solutions into the elevator control domain. By delving into the intricacies of software design and synthesis, this project aligns with the trajectory of elevators as intelligent, digital entities poised to redefine standards in vertical transportation. The synthesis phase, facilitated by Cadence tools, not only provides quantitative insights into system performance but also serves as a compass for optimization and refinement.
 
-**IMPORTANT NOTE**: The PDF of the report has been attached, end of which there is a **QR code which has all the necessary files** and has a detailed explaination of **Physical design using OpenLane**
 
----------------------------------------------------------------------------------Happy Learning------------------------------------------------------------------------------------------
+**IMPORTANT NOTE**:
+The PDF of the report has been attached, end of which there is a **QR code which has all the necessary files** and has a detailed explaination of **Physical design using OpenLane**
+
+
+
 
 Tools used: Verilog, **Cadence Insicive** , **Cadence Genus** and an Open Source tool called **OpenLane** for Physical Design and layout
 
